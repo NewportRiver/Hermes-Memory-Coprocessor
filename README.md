@@ -1,5 +1,7 @@
 # Hermes Memory Coprocessor
 
+> **Original research credit:** This project draws inspiration from **Dmitry Grinberg's ROMRAM** RP2040 external-memory experiment. See [CREDITS.md](CREDITS.md) for attribution and original sources. This is an independent Newport River research project, not an official ROMRAM release.
+
 Experimental hardware and software research for extending the *effective working capacity* of Android-hosted Hermes agents through an external memory/compute companion.
 
 > **Research status:** Concept / feasibility. A USB peripheral cannot normally add directly addressable physical RAM to a stock Samsung Galaxy A37. This project investigates offloading, not a promised RAM upgrade.
