@@ -1,0 +1,19 @@
+# Secrets and local state
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+auth.json
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+node_modules/
+dist/
+build/
+logs/
+*.log
+__pycache__/
+.DS_Store
